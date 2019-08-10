@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+p {
+    background-color: red;
+}
+
+.frame {
+    margin-right: 100px;
+    margin-left: 100px;  
+    text-align: center;
+}
+
+.backdrop {
+    background-image: url('./assets/image.jpg');  
+}
+
+.frame-background {
+    background-color: brown;
+}
